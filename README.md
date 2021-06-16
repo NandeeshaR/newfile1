@@ -1,1 +1,6 @@
-# newfile1
+{
+hi
+}
+{
+hello
+}
